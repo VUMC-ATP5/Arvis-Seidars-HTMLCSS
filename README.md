@@ -10,7 +10,7 @@
 
    Zandarts Latvijā sastopams Baltijas jūras piekrastē un līčos, kā arī ar tiem saistītajos saldūdeņos. No 1904. līdz 1996. gadam ielaists vai mākslīgi pavairots vairāk nekā 94 (apmēram 12%) ezeros, kā arī Rīgas, Ķeguma, Pļaviņu un citās ūdenskrātuvēs un dzirnavezeros. Vairākos ezeros izveidojušās populācijas. Zandarts mēdz migrēt no vienas ūdenstilpes uz otru, tāpēc sastopams arī tajās, kur nav ielaists.
 
-   * ***Izskats***
+- ***Izskats***
 
    Zandarts asaru dzimtas lielākā zivs. Tā ķermeņa garums var sasniegt 130 cm, Latvijā 100 cm, svars 20 kg, Latvijā 10,3 kg. Parasti zandarts ir apmēram 50 cm garš. Ķermenis zandartam slaids, no sāniem nedaudz saplacināts. Uz muguras divas muguras spuras: pirmā spura ar 13—20 asiem stariem, otrā ar 18—24 mīkstiem stariem. Anālā spura ar 2—3 asiem stariem un 10—14 mīkstiem stariem. Mute ar lieliem zobiem, vērsta uz priekšu. Zandartam ir arī ilkņi, 1—2 katrā no žokļiem (augšžoklī un apakšžoklī). Uz sānu līnijas 80—97 zvīņas
    ![This is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6jZ_ezJ55lb3NjsZn_jIt9ZoJ5To2y3_fFg&usqp=CAU)

@@ -1,32 +1,39 @@
-body {background-color: white;
-
+body {
+    background-color: rgb(222, 178, 178);
+    
 }
 
-p { border-style: dashed;
-    color: pink
+p { color:black; size: 180px;
+    font-family: "Fantasy";
+  
 }
 
-h1 {padding-left: 40px;
-
+h1 {padding-left: 150px;
 }
+h2 {padding-left: 150px;}
 
-a {color: :red
 
+
+img { border: 10px;px
 }
-
-img { border color:
-}
-#specialbotton {color:greenyellow}
 
 div.full {min-height: 100px;
-    background-color: blue;
     display: grid;
     grid-template-columns: 50%50%;
 
     }
 
-    div.left {min-height: 50px;
-    background-color: black;}
+    div.right {
+        min-width: 50px;
+        background-color: lightblue;
+        color: black;
+        font-weight: bold;
+    }
+   
+    div {min-width: 50px;
+        color:bisque;
+        background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
 
-    div.right {min-height: 50px;
-    background-color: aqua;}
+    }
+
+    
